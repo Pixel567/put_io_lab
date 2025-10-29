@@ -8,7 +8,7 @@ class Main {
 
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
-
+//This is a change3.
     // ask users to enter operator
     System.out.println("Choose an operator: +, -, *, or /");
     operator = input.next().charAt(0);
@@ -27,7 +27,7 @@ class Main {
         result = number1 + number2;
         System.out.println(number1 + " + " + number2 + " = " + result);
         break;
-
+//This is a comment.
       // performs subtraction between numbers
       case '-':
         result = number1 - number2;
