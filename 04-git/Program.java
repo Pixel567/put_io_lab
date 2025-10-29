@@ -2,10 +2,10 @@ import java.util.Scanner;
 //change2
 class Main {
   public static void main(String[] args) {
-
+//This is a change1.
     char operator;
     Double number1, number2, result;
-
+//This is a change2.
     // create an object of Scanner class
     Scanner input = new Scanner(System.in);
 //This is a change3.
